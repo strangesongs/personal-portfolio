@@ -10,9 +10,9 @@ const BlogPage = ({ data }) => {
           <article key={node.id}>
             <h2>
               <Link to={`/blog/${node.slug}`}>
-              {node.frontmatter.title}
+                {node.frontmatter.title}
               </Link>
-              </h2>
+            </h2>
             <p>Posted: {node.frontmatter.date}</p>
           </article>
         ))
