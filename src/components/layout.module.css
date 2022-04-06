@@ -5,7 +5,7 @@
 }
 
 .heading {
-  color: rebeccapurple;
+  color: rgba(114, 7, 66, 0.867);
 }
 
 .nav-links {
@@ -19,7 +19,7 @@
 }
 
 .nav-link-text {
-  color: black;
+  color: rgba(114, 7, 66, 0.867);
 }
 
 .site-title {

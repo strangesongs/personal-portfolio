@@ -4,8 +4,10 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+    <Layout pageTitle="hello">
+      <p>welcome to my personal page
+        this is a personal portfolio page, as well as a blog of writing about programming, tech and whatever else i want to discuss
+      </p>    
       <StaticImage
         alt="Ed, a character from the anime series Cowboy Bebop"
         src="../images/ed.jpeg"
