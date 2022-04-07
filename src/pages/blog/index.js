@@ -2,6 +2,7 @@ import * as React from 'react'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/layout'
 
+
 const BlogPage = ({ data }) => {
   return (
     <Layout pageTitle="past posts">
@@ -13,7 +14,8 @@ const BlogPage = ({ data }) => {
                 {node.frontmatter.title}
               </Link>
             </h2>
-            <p>Posted: {node.frontmatter.date}</p>
+            <h4>posted: {node.frontmatter.date}</h4>
+            
           </article>
         ))
       }

@@ -4,8 +4,16 @@
   font-family: "Work Sans";
 }
 
+.container a {
+  text-decoration: none;
+}
+
+.container a:hover {
+  color: rgb(66, 63, 63)
+}
+
 .heading {
-  color: rgba(114, 7, 66, 0.867);
+  color: rgba(114, 7, 16, 0.867)
 }
 
 .nav-links {
@@ -16,22 +24,19 @@
 
 .nav-link-item {
   padding-right: 2rem;
-  text-decoration: none;
+}
+.nav-link-item :hover {
+  color: rgb(66, 63, 63);
 }
 
 .nav-link-text {
-  color: rgba(114, 7, 66, 0.867);
+  color: rgba(114, 7, 16, 0.867);
   text-decoration: none;
-
 }
 
 .site-title {
-    font-size: 3rem;
-    color: rgba(144, 50, 77, 0.912);
+    font-size: 5rem;
+    color: rgba(114, 7, 16, 0.867);
     font-weight: 700;
     margin: 3rem 0;
-  }
-
-  .a {
-    text-decoration: none;
-  }
+}

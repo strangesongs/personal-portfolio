@@ -9,9 +9,11 @@ const AboutPage = () => {
         alt="Ed, a character from the anime series Cowboy Bebop"
         src="../images/ed.jpeg"
         />
-      <p>my name is josh</p>
+      <p>my name is josh cretella</p>
 
-      <p>i'm a software developer based in los angeles, ca</p>
+      <p>i'm a software engineer based in los angeles, ca</p>
+
+      <p>my work is built around javascript, with a focus on react, node.js and express</p>
 
       <p>check out my work on <a href={`https://github.com/strangesongs`}>github</a></p>
       
