@@ -32,6 +32,10 @@ html {
   padding-right: 2rem;
 }
 
+.nav-link-text {
+  color:rgb(80, 4, 11)
+}
+
 .site-title {
     font-size: 5rem;
     color: rgb(80, 4, 11);

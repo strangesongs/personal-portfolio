@@ -14,7 +14,7 @@ const LinksPage = () => {
                  <li><a href={`reallifemag.com`}>real life</a></li>
                  <li><a href={`jvns.ca`}>julia evans</a></li>
                  <li><a href={`https://alexkondov.com/tao-of-node/`}>tao of node</a></li>
-                 <li><a href={`https://poignant.guide/`}>why's (poigant) guide to ruby</a></li>
+                 <li><a href={`https://poignant.guide/`}>why's (poignant) guide to ruby</a></li>
                  <li><a href={`https://hack-yourself-first.com/`}>hack yourself first</a></li>
                  <li><a href={`https://codesmith.io`}>codesmith</a></li>
              </ul>
@@ -24,7 +24,9 @@ const LinksPage = () => {
                  <li><a href={`https://archive.org.us/`}>internet archive</a></li>
                  <li><a href={`thebaffler.com`}>the baffler</a></li>
                  <li><a href={`https://knock-la.com`}>knock la</a></li>
+                 <li><a href={`https://thelapod.com/`}>la podcast</a></li>
                  <li><a href={`https://monsterbrains.blogspot.com/`}>monster brains</a></li>
+                 <li><a href={`https://fivefourpod.com/`}>5-4 pod</a></li>
              </ul>
 
              music

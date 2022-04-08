@@ -11,13 +11,17 @@ const AboutPage = () => {
         />
       <p>my name is josh cretella</p>
 
-      <p>i'm a software engineer based in los angeles, ca</p>
+      <p>i'm a full stack software engineer based in los angeles, ca</p>
 
-      <p>my work is built on javascript, with a focus on react, node.js and express.</p>
+      <p>my work is built on javascript,  react, typescript, node.js and express.</p>
 
       <p>check out my work on <a href={`https://github.com/strangesongs`}>github</a></p>
       
       or <a href={`../../j-cretella-resume.pdf`} download>download my resume here</a>
+
+      <a href={`https://www.linkedin.com/in/josh-cretella/`}>linked in</a>
+      
+      <a href={`mailto:kjcoco13@gmail.com`}>send me an email</a> 
 
     
 
