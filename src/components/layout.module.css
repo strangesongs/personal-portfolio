@@ -2,18 +2,24 @@
   margin: auto;
   max-width: 500px;
   font-family: "Work Sans";
+  color: rgb(40, 40, 40)	;
+}
+
+html {
+  background-color: rgb(214, 191, 191)
 }
 
 .container a {
   text-decoration: none;
+  color: rgb(80, 4, 11)
 }
 
 .container a:hover {
-  color: rgb(66, 63, 63)
+  color: rgb(29, 28, 28)
 }
 
 .heading {
-  color: rgba(114, 7, 16, 0.867)
+  color: rgb(80, 4, 11)
 }
 
 .nav-links {
@@ -25,18 +31,10 @@
 .nav-link-item {
   padding-right: 2rem;
 }
-.nav-link-item :hover {
-  color: rgb(66, 63, 63);
-}
-
-.nav-link-text {
-  color: rgba(114, 7, 16, 0.867);
-  text-decoration: none;
-}
 
 .site-title {
     font-size: 5rem;
-    color: rgba(114, 7, 16, 0.867);
+    color: rgb(80, 4, 11);
     font-weight: 700;
     margin: 3rem 0;
 }
