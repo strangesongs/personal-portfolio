@@ -13,11 +13,13 @@ const AboutPage = () => {
 
       <p>i'm a software engineer based in los angeles, ca</p>
 
-      <p>my work is built around javascript, with a focus on react, node.js and express</p>
+      <p>my work is built on javascript, with a focus on react, node.js and express.</p>
 
       <p>check out my work on <a href={`https://github.com/strangesongs`}>github</a></p>
       
       or <a href={`../../j-cretella-resume.pdf`} download>download my resume here</a>
+
+    
 
     
     </Layout>

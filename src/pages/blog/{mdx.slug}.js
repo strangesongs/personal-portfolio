@@ -10,7 +10,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout pageTitle={data.mdx.frontmatter.title}>
       <p>{data.mdx.frontmatter.date}</p>
-      <GatsbyImage
+      {/* <GatsbyImage
         image={image}
         alt={data.mdx.frontmatter.hero_image_alt}
       />
@@ -19,7 +19,7 @@ const BlogPost = ({ data }) => {
         <a href={data.mdx.frontmatter.hero_image_credit_link}>
           {data.mdx.frontmatter.hero_image_credit_text}
         </a>
-      </p>
+      </p> */}
       <MDXRenderer>
         {data.mdx.body}
       </MDXRenderer>
