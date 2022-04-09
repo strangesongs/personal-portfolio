@@ -17,15 +17,10 @@ const AboutPage = () => {
 
       <p>check out my work on <a href={`https://github.com/strangesongs`}>github</a></p>
       
-      or <a href={`../../j-cretella-resume.pdf`} download>download my resume here</a>
-
-      <a href={`https://www.linkedin.com/in/josh-cretella/`}>linked in</a>
+      <p><a href={`../../j-cretella-resume.pdf`} download>download my resume here</a> or on <a href={`https://www.linkedin.com/in/josh-cretella/`}>linkedin</a></p>
       
-      <a href={`mailto:kjcoco13@gmail.com`}>send me an email</a> 
+      <p><a href={`mailto:jcrtll@protonmail.com`}>send me an email</a></p>
 
-    
-
-    
     </Layout>
   )
 }

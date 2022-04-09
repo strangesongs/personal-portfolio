@@ -7,7 +7,7 @@ const LinksPage = () => {
             <p>in no order of importance, here's a list of blogs, writers, articles and other resources i endorse</p>
             tech + programming
              <ul>
-                 <li><a href={`https://techwontsave.us/`}>tech won't save us podcast</a></li>
+                 <li><a href={`https://techwontsave.us/`}>tech won't save us</a></li>
                  <li><a href={`https://web3isgoinggreat.com/`}>web3 is going just great</a></li>
                  <li><a href={`https://logicmag.io/`}>logic magazine</a></li>
                  <li><a href={`https://blog.nelhage.com/`}>made of bugs</a></li>
@@ -19,6 +19,15 @@ const LinksPage = () => {
                  <li><a href={`https://codesmith.io`}>codesmith</a></li>
              </ul>
 
+             music
+             <ul>
+                 <li><a href={`https://aquariumdrunkard.com/`}>aquarium drunkard</a></li>
+                 <li><a href={`https://www.thewire.co.uk/home/`}>the wire</a></li>
+                 <li><a href={`https://ra.co/`}>resident advisor</a></li>
+                 <li><a href={`https://thequietus.com/`}>the quietus</a></li>
+                 <li><a href={`https://wfmu.org`}>wfmu</a></li>
+             </ul>
+
              assorted links
              <ul>
                  <li><a href={`https://archive.org.us/`}>internet archive</a></li>
@@ -27,16 +36,12 @@ const LinksPage = () => {
                  <li><a href={`https://thelapod.com/`}>la podcast</a></li>
                  <li><a href={`https://monsterbrains.blogspot.com/`}>monster brains</a></li>
                  <li><a href={`https://fivefourpod.com/`}>5-4 pod</a></li>
-             </ul>
+                 <li><a href={`http://mariamekaba.com/`}>mariame kaba</a></li>
+                 <li><a href={`http://mariamekaba.com/`}>the marshall project</a></li>
+                 <li><a href={`https://rocunited.org/`}>roc united</a></li>
 
-             music
-             <ul>
-                 <li><a href={`https://aquariumdrunkard.com/`}>aquarium drunkard</a></li>
-                 <li><a href={`https://www.thewire.co.uk/home/`}>the wire</a></li>
-                 <li><a href={`https://ra.co/`}>resident advisor</a></li>
-                 <li><a href={`https://thequietus.com/`}>the quietus</a></li>
              </ul>
-             
+     
         </Layout>
     )
 }
