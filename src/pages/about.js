@@ -11,7 +11,7 @@ const AboutPage = () => {
         />
       <p>my name is josh cretella</p>
 
-      <p>i'm a full stack software engineer based in los angeles, ca</p>
+      <p>i'm a software engineer based in los angeles, ca</p>
 
       <p>my work uses javascript, react, node.js, express and typescript</p>
 
