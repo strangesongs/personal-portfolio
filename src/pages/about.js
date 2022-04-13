@@ -13,13 +13,14 @@ const AboutPage = () => {
 
       <p>i'm a full stack software engineer based in los angeles, ca</p>
 
-      <p>my work is built on javascript,  react, typescript, node.js and express.</p>
+      <p>my work uses javascript, react, node.js, express and typescript</p>
 
+      <p>outside of programming, i'm interested in urban planning, architecture, photography, jazz, hiking in the desert, cookbooks, comic books and eating my way across los angeles</p> 
+      
       <p>check out my work on <a href={`https://github.com/strangesongs`}>github</a></p>
-      
-      <p><a href={`../../j-cretella-resume.pdf`} download>download my resume here</a> or on <a href={`https://www.linkedin.com/in/josh-cretella/`}>linkedin</a></p>
-      
+      <p><a href={`../../j-cretella-resume.pdf`} download>download my resume</a>
       <p><a href={`mailto:jcrtll@protonmail.com`}>send me an email</a></p>
+      <a href={`https://www.linkedin.com/in/josh-cretella/`}>linkedin</a></p>
 
     </Layout>
   )
