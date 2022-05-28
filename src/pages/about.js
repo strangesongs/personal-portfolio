@@ -15,7 +15,7 @@ const AboutPage = () => {
 
       <p>my work uses javascript, react, node.js, express and redux</p>
 
-      <p>outside of programming, i'm interested in urban planning, architecture, photography, jazz, hiking in the desert, cookbooks, comic books and eating my way across los angeles</p> 
+      <p>outside of programming, i'm interested in urban planning, architecture, photography, jazz, hiking in the desert, comic books and eating my way across los angeles</p> 
       
       <p><a href={`../../j-cretella-resume.pdf`} download>download my resume</a>
       <p><a href={`mailto:jcrtll@protonmail.com`}>send me an email</a></p>
